@@ -51,7 +51,7 @@ com.github.mirkobrombin.elementarypython
 ```
 
 ## Installation
-Grab an updated release [here](https://github.com/mirkobrombin/ElementaryPython/archive/master.zip) or use **git**:
+Grab an updated release [here](https://gitlab.com/brombinmirko/ElementaryPython/-/archive/master/ElementaryPython-master.zip) or use **git**:
 
 ```bash
 git clone https://github.com/mirkobrombin/ElementaryPython.git
